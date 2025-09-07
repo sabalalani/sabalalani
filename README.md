@@ -42,9 +42,22 @@
 ---
 
 ## 🛠️ Technical Skills
+
+### Programming & Scripting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,docker,git,github,linux,postgres,mysql,mongodb,aws,azure,gcp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,r,html,css,js" />
 </p>
+
+### Machine Learning & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### Tools & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postgres,mysql,mongodb,aws,azure,gcp" />
+</p>
+
 
 ---
 
