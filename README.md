@@ -1,7 +1,7 @@
 <!-- Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+👋,+I'm+Saba+Bashir!;AI+%26+Machine+Learning;Deep+Learning+%26+Computer+Vision;Data+Science+%26+Analytics)
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=180&lines=Hi+👋,+I'm+Saba+Bashir!;AI+%26+Machine+Learning;Deep+Learning+%26+Computer+Vision;Data+Science+%26+Analytics" alt="Typing Header"/>
+</p>
 
 
 
