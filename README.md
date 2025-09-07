@@ -63,7 +63,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mssql" alt="MS SQL" title="MS SQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Microsoft_SQL_Server_2025_icon.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
 </p>
 
