@@ -59,20 +59,24 @@
   <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" title="Scikit-learn" />
 </p>
 
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mssql" alt="MS SQL" title="MS SQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
+</p>
+
 ### Tools & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" />
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" />
   <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" title="GCP" />
 </p>
-
 
 
 ---
