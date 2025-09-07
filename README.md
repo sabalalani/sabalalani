@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20👋,%20I'm%20Saba%20Bashir!&fontSize=36&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0DD4FF,FF6D00&height=180&section=header&text=Hi%20👋,%20I'm%20Saba%20Bashir!%0AAI%20%26%20Machine%20Learning%20%26%20Deep%20Learning%0AComputer%20Vision%20%26%20Data%20Science&fontSize=36&animation=fadeIn"/>
 </p>
 
 ---
@@ -8,9 +8,7 @@
 ## 👩‍💻 About Me
 🎓 Graduate student in **Data Science at DePaul University** (GPA: 4.0/4.0), with a previous MS (Gold Medalist) in Data Science.  
 🔬 Experienced in **machine learning, deep learning, NLP, and applied computer vision**, with publications in healthcare and medical imaging.  
-💡 Passionate about advancing **biomedical image analysis** and building AI solutions for impactful real-world applications.  
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+👋,+I'm+Saba+Bashir!;AI+%26+Machine+Learning;Deep+Learning+%26+Computer+Vision)
+💡 Passionate about advancing **biomedical image analysis** and building AI solution
 
 
 ---
