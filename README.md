@@ -63,7 +63,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
-  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
 </p>
 
