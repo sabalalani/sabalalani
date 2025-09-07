@@ -10,6 +10,9 @@
 🔬 Experienced in **machine learning, deep learning, NLP, and applied computer vision**, with publications in healthcare and medical imaging.  
 💡 Passionate about advancing **biomedical image analysis** and building AI solutions for impactful real-world applications.  
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+👋,+I'm+Saba+Bashir!;AI+%26+Machine+Learning;Deep+Learning+%26+Computer+Vision)
+
+
 ---
 
 ## 💼 Experience
