@@ -1,7 +1,8 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=220&lines=Hi+👋,+I'm+Saba+Bashir!;My+Interests+💡:;AI+|+Machine+Learning+%F0%9F%A7%91;Deep+Learning+|+Computer+Vision+%F0%9F%92%BB;Data+Science+|+ Data Analytics+%F0%9F%93%9D&color=1E90FF,FF4500,32CD32,FFD700,00CED1" alt="Typing Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=220&lines=Hi+👋,+I'm+Saba+Bashir!;My+Interests+💡:;AI+%7C+Machine+Learning+%F0%9F%A7%91;Deep+Learning+%7C+Computer+Vision+%F0%9F%92%BB;Data+Science+%7C+Data+Analytics+%F0%9F%93%9D&color=1E90FF,FF4500,32CD32,FFD700,00CED1" alt="Typing Header"/>
 </p>
+
 
 
 
