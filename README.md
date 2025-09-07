@@ -1,7 +1,6 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0DD4FF,FF6D00&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Saba%20Bashir!%0AAI%20%26%20Machine%20Learning%20%F0%9F%A7%91%0ADeep%20Learning%20%26%20Computer%20Vision%20%F0%9F%92%BB%0AData%20Science%20%26%20Analytics%20%F0%9F%93%9D&fontSize=36&animation=fadeIn" alt="Saba's Header" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+👋,+I'm+Saba+Bashir!;AI+%26+Machine+Learning;Deep+Learning+%26+Computer+Vision;Data+Science+%26+Analytics)
+
 
 
 
