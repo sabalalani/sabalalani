@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0DD4FF,FF6D00&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Saba%20Bashir!%0AAI%20%26%20Machine%20Learning%0ADeep%20Learning%20%26%20Computer%20Vision%0AData%20Science%20%26%20Analytics&fontSize=36&animation=fadeIn" alt="Saba's Header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0DD4FF,FF6D00&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Saba%20Bashir!%0AAI%20%26%20Machine%20Learning%20%F0%9F%A7%91%0ADeep%20Learning%20%26%20Computer%20Vision%20%F0%9F%92%BB%0AData%20Science%20%26%20Analytics%20%F0%9F%93%9D&fontSize=36&animation=fadeIn" alt="Saba's Header" />
 </p>
 
 
