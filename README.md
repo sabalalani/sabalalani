@@ -12,11 +12,21 @@
 
 ---
 
+## 💼 Experience
+| Role | Organization | Duration | Key Highlights |
+|------|--------------|----------|----------------|
+| **Research Assistant** | *DePaul University* | Aug 2025 – Present | Developing CNN & Transformer models for **Foot Posture Index Automation**, conducting preprocessing & augmentation, and documenting outcomes for academic use. |
+| **Specialist – Software Solutions & Innovation** | *Aga Khan Education Services* | Jun 2022 – Aug 2023 | Built **LSTM models** for student performance & enrollment forecasting, performed EDA, improved resource allocation. |
+| **Simulation Technical Analyst** | *Aga Khan University* | Jun 2021 – May 2022 | Analyzed medical simulation data, created **Power BI/Tableau dashboards**, built pipelines in Python & SQL. |
+| **Senior IT Analyst** | *Aga Khan Education Services* | Oct 2018 – May 2021 | Automated workflows with Python/Java, redesigned SQL data systems → boosted accuracy by **25%**. |
+
+---
+
 ## 📑 Publications
 📘 *Exploring Biomedical Image Segmentation Using CNN, Transformer, and Multimodal Learning Approaches* (Ongoing)  
 📘 *YOLOv5-M: A Deep Network for Medical Object Detection in Real-time*  
 📘 *LSTM-based Model for Forecasting of COVID-19 Vaccines in Pakistan*  
-📘 *Exploring the Impact of Preprocessing Techniques on Retinal Blood Vessel Segmentation Using a Study Group Learning Scheme*  
+📘 *Exploring the Impact of Preprocessing Techniques on Retinal Blood Vessel Segmentation*  
 📘 *Understanding Tumor Micro Environment using Graph Theory*  
 
 🔗 [ResearchGate Profile](https://www.researchgate.net/profile/Saba-Bashir-16?ev=hdr_xprf)  
