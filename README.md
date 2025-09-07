@@ -45,31 +45,33 @@
 
 ### Programming & Scripting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=r" alt="R" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=r" alt="R" title="R" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
 </p>
 
 ### Machine Learning & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" title="Scikit-learn" />
 </p>
 
 ### Tools & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=azure"
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" title="GCP" />
+</p>
 
 
 
